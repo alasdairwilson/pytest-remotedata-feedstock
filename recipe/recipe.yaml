@@ -3,7 +3,6 @@ schema_version: 1
 context:
   version: "0.4.3"
   git_url: https://github.com/astropy/pytest-remotedata
-  python_min: "3.11"
 
 package:
   name: pytest-remotedata
